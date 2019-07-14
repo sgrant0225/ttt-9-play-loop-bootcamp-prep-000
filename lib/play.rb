@@ -42,5 +42,5 @@ def play(board)
  loop do 
    counter = counter + 1
    play(board)
-  if  
+  if counter 
 end
