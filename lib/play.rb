@@ -43,4 +43,7 @@ def play(board)
    counter = counter + 1
    play(board)
   if counter >10 
+    break
+  end
+end  
 end
